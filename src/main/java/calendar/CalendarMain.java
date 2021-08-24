@@ -50,7 +50,7 @@ public class CalendarMain extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify
-    private CalendarChange calendarChange1;
+    private calendar.CalendarChange calendarChange1;
     // End of variables declaration
 
 }
